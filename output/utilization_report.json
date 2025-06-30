@@ -1,0 +1,279 @@
+{
+  "timeslots": {
+    "1": {
+      "day": "Wednesday",
+      "time": "15:00-19:00",
+      "exams_scheduled": 1,
+      "total_students": 418
+    },
+    "3": {
+      "day": "Thursday",
+      "time": "13:00-17:00",
+      "exams_scheduled": 1,
+      "total_students": 402
+    },
+    "6": {
+      "day": "Tuesday",
+      "time": "15:00-17:00",
+      "exams_scheduled": 1,
+      "total_students": 404
+    },
+    "8": {
+      "day": "Thursday",
+      "time": "10:00-13:00",
+      "exams_scheduled": 1,
+      "total_students": 415
+    },
+    "9": {
+      "day": "Friday",
+      "time": "11:00-15:00",
+      "exams_scheduled": 1,
+      "total_students": 416
+    },
+    "11": {
+      "day": "Monday",
+      "time": "11:00-15:00",
+      "exams_scheduled": 1,
+      "total_students": 450
+    },
+    "13": {
+      "day": "Wednesday",
+      "time": "08:00-19:00",
+      "exams_scheduled": 1,
+      "total_students": 445
+    },
+    "14": {
+      "day": "Monday",
+      "time": "15:00-18:00",
+      "exams_scheduled": 1,
+      "total_students": 377
+    },
+    "15": {
+      "day": "Friday",
+      "time": "08:00-12:00",
+      "exams_scheduled": 1,
+      "total_students": 411
+    },
+    "16": {
+      "day": "Thursday",
+      "time": "08:00-18:00",
+      "exams_scheduled": 1,
+      "total_students": 402
+    },
+    "18": {
+      "day": "Friday",
+      "time": "08:00-11:00",
+      "exams_scheduled": 1,
+      "total_students": 403
+    },
+    "19": {
+      "day": "Thursday",
+      "time": "16:00-18:00",
+      "exams_scheduled": 1,
+      "total_students": 415
+    },
+    "21": {
+      "day": "Monday",
+      "time": "09:00-14:00",
+      "exams_scheduled": 1,
+      "total_students": 376
+    },
+    "22": {
+      "day": "Tuesday",
+      "time": "15:00-19:00",
+      "exams_scheduled": 1,
+      "total_students": 405
+    },
+    "24": {
+      "day": "Tuesday",
+      "time": "10:00-18:00",
+      "exams_scheduled": 1,
+      "total_students": 405
+    },
+    "25": {
+      "day": "Thursday",
+      "time": "12:00-18:00",
+      "exams_scheduled": 1,
+      "total_students": 457
+    },
+    "26": {
+      "day": "Thursday",
+      "time": "15:00-19:00",
+      "exams_scheduled": 1,
+      "total_students": 412
+    },
+    "28": {
+      "day": "Monday",
+      "time": "10:00-17:00",
+      "exams_scheduled": 1,
+      "total_students": 392
+    },
+    "29": {
+      "day": "Wednesday",
+      "time": "13:00-17:00",
+      "exams_scheduled": 1,
+      "total_students": 430
+    },
+    "46": {
+      "day": "Tuesday",
+      "time": "12:00-18:00",
+      "exams_scheduled": 1,
+      "total_students": 402
+    },
+    "48": {
+      "day": "Monday",
+      "time": "09:00-13:00",
+      "exams_scheduled": 1,
+      "total_students": 395
+    },
+    "54": {
+      "day": "Thursday",
+      "time": "10:00-17:00",
+      "exams_scheduled": 1,
+      "total_students": 450
+    }
+  },
+  "classrooms": {
+    "3": {
+      "location": "B-710",
+      "capacity": 46,
+      "usage_sessions": 22,
+      "total_occupancy": 9082,
+      "utilization_rates": [
+        908.6956521739131,
+        873.913043478261,
+        878.2608695652174,
+        902.1739130434784,
+        904.3478260869565,
+        978.2608695652174,
+        967.3913043478261,
+        819.5652173913043,
+        893.4782608695652,
+        873.913043478261,
+        876.086956521739,
+        902.1739130434784,
+        817.3913043478261,
+        880.4347826086957,
+        880.4347826086957,
+        993.4782608695652,
+        895.6521739130435,
+        852.1739130434784,
+        934.7826086956521,
+        873.913043478261,
+        858.6956521739131,
+        978.2608695652174
+      ],
+      "avg_utilization": 897.4308300395259
+    }
+  },
+  "instructors": {
+    "0be1929c-a780-4078-9e98-6df4cf99c936": {
+      "name": "Heather Molina",
+      "department": "Management",
+      "exams_supervised": 2,
+      "students_supervised": 823
+    },
+    "79463069-f838-4edd-9438-cdc4c95e75a2": {
+      "name": "Susan Brown",
+      "department": "Engineering",
+      "exams_supervised": 2,
+      "students_supervised": 847
+    },
+    "449de61b-f2b5-406f-8445-17b960996d0a": {
+      "name": "Craig Haynes",
+      "department": "Business Administration",
+      "exams_supervised": 1,
+      "students_supervised": 404
+    },
+    "fe8c95dc-f314-472c-a317-83d7bb76fbc9": {
+      "name": "Ryan Peters",
+      "department": "Physics",
+      "exams_supervised": 1,
+      "students_supervised": 415
+    },
+    "2d1f121d-f3ba-48f9-aff2-b38da7db30cf": {
+      "name": "Bruce Steele",
+      "department": "Healthcare Informatics",
+      "exams_supervised": 1,
+      "students_supervised": 416
+    },
+    "309c4ad8-2776-4955-b1b5-8ab5409090ad": {
+      "name": "Alicia Rivera",
+      "department": "Healthcare Informatics",
+      "exams_supervised": 1,
+      "students_supervised": 450
+    },
+    "2f638a13-eb24-4d61-ad54-7aaf0b822823": {
+      "name": "Eric Lee",
+      "department": "Chemistry",
+      "exams_supervised": 1,
+      "students_supervised": 377
+    },
+    "d8e46018-304b-49b7-bb5b-d128007be5bd": {
+      "name": "Marc Bryant",
+      "department": "Business Administration",
+      "exams_supervised": 1,
+      "students_supervised": 411
+    },
+    "e09c188d-aea7-4cf2-9bb6-6eed739db033": {
+      "name": "Alexis Brooks",
+      "department": "Healthcare Informatics",
+      "exams_supervised": 1,
+      "students_supervised": 402
+    },
+    "61b6a185-51b2-47f0-bfa2-7c6615e9e145": {
+      "name": "James Walton",
+      "department": "Computer Science",
+      "exams_supervised": 2,
+      "students_supervised": 805
+    },
+    "80dad91e-02f0-4182-ae63-9bfe710a66b9": {
+      "name": "Maureen Gardner",
+      "department": "Engineering",
+      "exams_supervised": 1,
+      "students_supervised": 415
+    },
+    "cff4ee54-8789-46e5-a995-15c0dea35275": {
+      "name": "Mary Jordan",
+      "department": "Computer Science",
+      "exams_supervised": 1,
+      "students_supervised": 376
+    },
+    "57a87455-1a19-4d48-90c9-bd9040670f85": {
+      "name": "Michael Kelly",
+      "department": "Physics",
+      "exams_supervised": 1,
+      "students_supervised": 405
+    },
+    "2086fb93-7036-4127-b46f-14b11794fd56": {
+      "name": "Kyle Montoya",
+      "department": "Computer Science",
+      "exams_supervised": 1,
+      "students_supervised": 457
+    },
+    "295c30fe-615a-4769-bade-21c7e3e975a9": {
+      "name": "Cynthia Miller",
+      "department": "Chemistry",
+      "exams_supervised": 1,
+      "students_supervised": 412
+    },
+    "6ddac491-3bfa-420a-8098-f3c741f530b6": {
+      "name": "Danielle Ponce",
+      "department": "Computer Science",
+      "exams_supervised": 1,
+      "students_supervised": 392
+    },
+    "8913dd3b-624d-4610-837e-ca0063075e6b": {
+      "name": "Jerry Lee",
+      "department": "Business Administration",
+      "exams_supervised": 2,
+      "students_supervised": 880
+    },
+    "bf20d0e5-4b79-481a-92d6-3b159ce4d4a0": {
+      "name": "Cynthia Ray",
+      "department": "Business Administration",
+      "exams_supervised": 1,
+      "students_supervised": 395
+    }
+  }
+}

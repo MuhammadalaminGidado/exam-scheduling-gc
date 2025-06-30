@@ -1,0 +1,59 @@
+{
+  "total_courses": 22,
+  "total_conflicts": 231,
+  "conflict_distribution": {
+    "21": 22
+  },
+  "most_conflicted_courses": [
+    {
+      "course_id": 1,
+      "course_name": "Expanded web-enabled core",
+      "conflicts": 21
+    },
+    {
+      "course_id": 2,
+      "course_name": "Cross-group tertiary algorithm",
+      "conflicts": 21
+    },
+    {
+      "course_id": 3,
+      "course_name": "Synergized secondary throughput",
+      "conflicts": 21
+    },
+    {
+      "course_id": 4,
+      "course_name": "Object-based impactful groupware",
+      "conflicts": 21
+    },
+    {
+      "course_id": 5,
+      "course_name": "Visionary leadingedge alliance",
+      "conflicts": 21
+    },
+    {
+      "course_id": 6,
+      "course_name": "Programmable secondary pricing structure",
+      "conflicts": 21
+    },
+    {
+      "course_id": 7,
+      "course_name": "Cross-platform national adapter",
+      "conflicts": 21
+    },
+    {
+      "course_id": 8,
+      "course_name": "Organized background forecast",
+      "conflicts": 21
+    },
+    {
+      "course_id": 9,
+      "course_name": "De-engineered optimizing complexity",
+      "conflicts": 21
+    },
+    {
+      "course_id": 10,
+      "course_name": "Diverse zero-defect protocol",
+      "conflicts": 21
+    }
+  ]
+}
